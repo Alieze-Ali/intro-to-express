@@ -1,0 +1,16 @@
+{
+  "name": "intro-to-express",
+  "version": "1.0.0",
+  "description": "A simple project to experiment with Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "javascript"
+  ],
+  "author": "Alieze Ali",
+  "license": "ISC"
+}
