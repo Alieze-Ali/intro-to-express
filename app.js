@@ -6,7 +6,7 @@ const app = express(); // Step 2. Create an instance of the express server
 
 // Step 4: Set a route - without this your app won't run
 app.get('/', (req, res) => {
-    res.send('Hello from the app!');
+    res.send('Hola from the app!');
 });
 
 const port = 5000;  // Step 3. Set up a port to listen on & tell app to listen on said port
